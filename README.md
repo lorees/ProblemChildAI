@@ -1,5 +1,7 @@
 ## Problem Child AI is a Wholistic Student Assessment System that Educators can relay on to give clear unbiased views of their student roster's real performance. Please our case study below.
 
+[![Alt text](https://img.youtube.com/vi/YZj1tG3nHEU/0.jpg)](https://www.youtube.com/watch?v=YZj1tG3nHEU)
+
 # Green Valley School District Proactive Student Support Initiative - Problem Child AI
 
 The Green Valley School district wants to take a proactive approach to helping their students thrive. As a middle school, they realize that it is critical that children between 11 and 15 get the help that they need. They want to identify and reach out to children that may be in need of additional assistance and/or emotional support in the hopes that this loving support will help them on their way to living a fruitful life. They want to leverage AI to help them accomplish this goal.
