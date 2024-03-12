@@ -1,6 +1,7 @@
 ## Problem Child AI is a Wholistic Student Assessment System that Educators can relay on to give clear unbiased views of their student roster's real performance. Please our case study below.
 
 [![Alt text](https://img.youtube.com/vi/YZj1tG3nHEU/0.jpg)](https://www.youtube.com/watch?v=YZj1tG3nHEU)
+[![Alt text](https://img.youtube.com/vi/Wk1DoGx8PJw/0.jpg)](https://www.youtube.com/watch?v=Wk1DoGx8PJw)
 
 # Green Valley School District Proactive Student Support Initiative - Problem Child AI
 
@@ -37,3 +38,10 @@ Focusing on the (3) key areas listed above, the **"Problem Child AI"** system re
 - **Participation in Extracurricular school activities (Sports, Glee clubs, Band, Swim, Community Outreach, etc) 0 or 1.**
 - **More than 1 trip to the Nurse in a month. Regarded as problematic.**
 - **Run-ins with the SRO's - any number above 0 is too many.**
+
+---
+
+### Author
+- **Name:** Loree S.
+- **Email:** Lorees35@gmail.com
+- **YouTube:**  https://www.youtube.com/c/kumputerkar
