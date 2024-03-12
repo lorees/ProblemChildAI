@@ -33,11 +33,11 @@ Our task is to facilitate the creation of the new **"Problem Child AI"** system.
 
 Focusing on the (3) key areas listed above, the **"Problem Child AI"** system requirements are listed below:
 
-- **GPA (Grade Point Average 65 to 100) equal to or below 70 regarded as problematic**
-- **(2) or more absences a month (2 lates = 1 absence) a month.**
-- **Participation in Extracurricular school activities (Sports, Glee clubs, Band, Swim, Community Outreach, etc) 0 or 1.**
+- **GPA (Grade Point Average 65 to 100) equal to or below 65 regarded as problematic**
+- **(2) or more absences a month (2 lates = 1 absence) a month are problematic.**
+- **Participation in Extracurricular school activities (Sports, Glee clubs, Band, Swim, Community Outreach, etc) gains extra credit.**
 - **More than 1 trip to the Nurse in a month. Regarded as problematic.**
-- **Run-ins with the SRO's - any number above 0 is too many.**
+- **Run-ins with the SRO's - any number above 0 is too many and causes a reduction.**
 
 ---
 
