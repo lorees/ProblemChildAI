@@ -1,4 +1,4 @@
-## Problem Child AI is a Wholistic Student Assessment System that Educators can relay on to give clear unbiased views of their student roster's real performance. Please our case study below.
+## Problem Child AI is a Wholistic Student Assessment System that Educators can relay on to give clear unbiased views of their student roster's real performance. Please read our case study below.
 
 [![Alt text](https://img.youtube.com/vi/YZj1tG3nHEU/0.jpg)](https://www.youtube.com/watch?v=YZj1tG3nHEU)
 [![Alt text](https://img.youtube.com/vi/Wk1DoGx8PJw/0.jpg)](https://www.youtube.com/watch?v=Wk1DoGx8PJw)
